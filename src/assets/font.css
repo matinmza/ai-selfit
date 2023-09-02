@@ -1,0 +1,86 @@
+@font-face {
+  font-family: "IranSans";
+  src: url("/fonts/Farsi-Digits-Without-Latin/Shabnam-FD-WOL.woff2")
+      format("woff2"),
+    url("/fonts/Farsi-Digits-Without-Latin/Shabnam-FD-WOL.woff") format("woff");
+}
+
+@font-face {
+  font-family: "IranSans";
+  src: url("/fonts/Farsi-Digits-Without-Latin/Shabnam-Thin-FD-WOL.woff2")
+      format("woff2"),
+    url("/fonts/Farsi-Digits-Without-Latin/Shabnam-Thin-FD-WOL.woff")
+      format("woff");
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "IranSans";
+  src: url("/fonts/Farsi-Digits-Without-Latin/Shabnam-Light-FD-WOL.woff2")
+      format("woff2"),
+    url("/fonts/Farsi-Digits-Without-Latin/Shabnam-Light-FD-WOL.woff")
+      format("woff");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "IranSans";
+  src: url("/fonts/Farsi-Digits-Without-Latin/Shabnam-Medium-FD-WOL.woff2")
+      format("woff2"),
+    url("/fonts/Farsi-Digits-Without-Latin/Shabnam-Medium-FD-WOL.woff")
+      format("woff");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "IranSans";
+  src: url("/fonts/Farsi-Digits-Without-Latin/Shabnam-Bold-FD-WOL.woff2")
+      format("woff2"),
+    url("/fonts/Farsi-Digits-Without-Latin/Shabnam-Bold-FD-WOL.woff")
+      format("woff");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Vazir";
+  src: url("/fonts/vazir-font-v16.1.0/Farsi-Digits-Without-Latin/Vazir-FD-WOL.woff2")
+      format("woff2"),
+    url("/fonts/vazir-font-v16.1.0/Farsi-Digits-Without-Latin/Vazir-FD-WOL.woff")
+      format("woff");
+}
+
+@font-face {
+  font-family: "Vazir";
+  src: url("/fonts/vazir-font-v16.1.0/Farsi-Digits-Without-Latin/Vazir-Thin-FD-WOL.woff2")
+      format("woff2"),
+    url("/fonts/vazir-font-v16.1.0/Farsi-Digits-Without-Latin/Vazir-Thin-FD-WOL.woff")
+      format("woff");
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "Vazir";
+  src: url("/fonts/vazir-font-v16.1.0/Farsi-Digits-Without-Latin/Vazir-Light-FD-WOL.woff2")
+      format("woff2"),
+    url("/fonts/vazir-font-v16.1.0/Farsi-Digits-Without-Latin/Vazir-Light-FD-WOL.woff")
+      format("woff");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Vazir";
+  src: url("/fonts/vazir-font-v16.1.0/Farsi-Digits-Without-Latin/Vazir-Medium-FD-WOL.woff2")
+      format("woff2"),
+    url("/fonts/vazir-font-v16.1.0/Farsi-Digits-Without-Latin/Vazir-Medium-FD-WOL.woff")
+      format("woff");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Vazir";
+  src: url("/fonts/vazir-font-v16.1.0/Farsi-Digits-Without-Latin/Vazir-Bold-FD-WOL.woff2")
+      format("woff2"),
+    url("/fonts/vazir-font-v16.1.0/Farsi-Digits-Without-Latin/Vazir-Bold-FD-WOL.woff")
+      format("woff");
+  font-weight: 700;
+}

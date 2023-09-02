@@ -1,0 +1,41 @@
+@import url(assets/font.css);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  html {
+    @apply font-vazir;
+    direction: rtl;
+  }
+}
+@layer components {
+  .ltr {
+    direction: ltr;
+  }
+  .rtl {
+    direction: rtl;
+  }
+  .container {
+    @apply mx-auto w-full px-5 max-w-[800px] box-border;
+  }
+
+  .gap-x {
+    @apply gap-x-4 desktop:gap-x-8;
+  }
+  .h1 {
+    @apply text-h1 font-medium;
+  }
+  .h2 {
+    @apply text-h2;
+  }
+  .h3 {
+    @apply text-h3 font-iranSans;
+  }
+}
+
+/* Style for the active center slide */
+.custom-slide.active {
+  background-color: red; /* Set your desired background color */
+  color: white; /* Set the text color for better visibility */
+}
